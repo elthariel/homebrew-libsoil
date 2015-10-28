@@ -10,7 +10,7 @@ Thank you @qqwe61946 https://github.com/qqwe61946/homebrew-libsoil
 ## How to use
 
 ```
-brew tap Nyoho/libsoil
+brew tap jellyshen/libsoil
 brew install libsoil
 ```
 
