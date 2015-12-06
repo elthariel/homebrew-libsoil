@@ -4,7 +4,7 @@ class Libsoil < Formula
   homepage 'https://github.com/numb3r23/libSOIL'
   url 'https://codeload.github.com/numb3r23/libSOIL/zip/master'
   version '1.07'
-  sha1 '496b00fca7847b6798fc4859fa3005818c3a279d'
+  sha1 '4286adb9fada9620ebe8509d12cb63ea2610c249'
 
   def patches
     DATA
